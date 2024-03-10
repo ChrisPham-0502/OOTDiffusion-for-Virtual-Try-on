@@ -10,12 +10,13 @@ This repository is the implement version of OOTDiffusion
 
 The original paper we implemented here: [[arXiv](https://arxiv.org/abs/2403.01779)]
 
+You can run the model here: [[Colab](https://colab.research.google.com/drive/1jUWgZYoShcfQQOwe1ZQswnz5AmOnf667?usp=sharing)]
+
 🥳🥳 The model checkpoints trained on [VITON-HD](https://github.com/shadow2496/VITON-HD) (half-body) and [Dress Code](https://github.com/aimagelab/dress-code) (full-body) have been released!
 
 * We use checkpoints of [humanparsing](https://github.com/GoGoDuck912/Self-Correction-Human-Parsing) and [openpose](https://huggingface.co/lllyasviel/ControlNet/tree/main/annotator/ckpts) in preprocess. Please refer to their guidance if you encounter relevant environmental issues
 * Please download [clip-vit-large-patch14](https://huggingface.co/openai/clip-vit-large-patch14) into ***checkpoints*** folder
 
-![[Colab](https://colab.research.google.com/drive/1jUWgZYoShcfQQOwe1ZQswnz5AmOnf667?usp=sharing)]
 ![demo](images/demo.png)&nbsp;
 ![workflow](images/workflow.png)&nbsp;
 

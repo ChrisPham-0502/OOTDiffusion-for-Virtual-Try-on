@@ -1,9 +1,6 @@
 # OOTDiffusion
 This repository is the implement version of OOTDiffusion
 
-[Try our OOTDiffusion](https://ootd.ibot.cn/)
-
-
 > **OOTDiffusion: Outfitting Fusion based Latent Diffusion for Controllable Virtual Try-on**<br>
 > [Yuhao Xu](https://scholar.google.com/citations?user=FF7JVLsAAAAJ&hl=zh-CN), [Tao Gu](https://github.com/T-Gu), [Weifeng Chen](https://github.com/ShineChen1024), and [Chengcai Chen](https://www.researchgate.net/profile/Chengcai-Chen)<br>
 > Xiao-i Research

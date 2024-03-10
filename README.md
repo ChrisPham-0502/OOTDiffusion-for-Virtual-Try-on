@@ -64,9 +64,3 @@ python run_ootd.py --model_path <model-image-path> --cloth_path <cloth-image-pat
 }
 ```
 
-## TODO List
-- [x] Paper
-- [x] Gradio demo
-- [x] Inference code
-- [x] Model weights
-- [ ] Training code

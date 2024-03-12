@@ -21,7 +21,7 @@ You can run the model here: [[Colab](https://colab.research.google.com/drive/1jU
 1. Clone the repository
 
 ```sh
-git clone (https://github.com/ChrisPham-0502/OOTDiffusion-for-Virtual-Try-on.git)
+git clone https://github.com/ChrisPham-0502/OOTDiffusion-for-Virtual-Try-on.git
 ```
 
 2. Create a conda environment and install the required packages
